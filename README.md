@@ -13,9 +13,7 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at Stev
 ### What I've Been Working With
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2019%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2031%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -32,10 +30,10 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at Stev
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-🌆 Daytime                19 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌃 Evening                28 commits          ████████████░░░░░░░░░░░░░   49.12 % 
-🌙 Night                  9 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+🌆 Daytime                19 commits          ████████░░░░░░░░░░░░░░░░░   32.76 % 
+🌃 Evening                29 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+🌙 Night                  9 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 ```
 
 
@@ -64,7 +62,6 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 12/10/2023 18:38:13 UTC
 <!--END_SECTION:waka-->
 
 ## 🌱 Learning Goals
