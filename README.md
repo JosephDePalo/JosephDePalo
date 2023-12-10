@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at Stev
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?size=40"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20thousand%20lines%20of%20code-blue)
 
@@ -40,7 +40,7 @@ Linux                    1 hr 49 mins        ███████████�
 ```
 
 
- Last Updated on 09/12/2023 18:36:29 UTC
+ Last Updated on 10/12/2023 18:36:23 UTC
 <!--END_SECTION:waka-->
 
 ## 🌱 Learning Goals
