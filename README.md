@@ -29,14 +29,14 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at Stev
 
 ```text
 💬 Programming Languages: 
-RMarkdown                37 mins             █████████████████████████   100.00 % 
+Bash                     0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    37 mins             █████████████████████████   100.00 % 
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/12/2023 18:36:36 UTC
+ Last Updated on 23/12/2023 18:36:24 UTC
 <!--END_SECTION:waka-->
 
 ## 🌱 Learning Goals
