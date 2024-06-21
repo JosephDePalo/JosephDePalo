@@ -29,17 +29,14 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at Stev
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 1 min          ████████████████████████░   96.79 % 
-CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/06/2024 18:38:41 UTC
+ Last Updated on 21/06/2024 18:39:16 UTC
 <!--END_SECTION:waka-->
 
 ## 🌱 Learning Goals
