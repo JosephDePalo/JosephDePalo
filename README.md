@@ -11,17 +11,15 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at Stev
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?size=40"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2035%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-🌆 Daytime                20 commits          ████████░░░░░░░░░░░░░░░░░   32.26 % 
-🌃 Evening                32 commits          █████████████░░░░░░░░░░░░   51.61 % 
-🌙 Night                  9 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+🌆 Daytime                21 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌃 Evening                32 commits          █████████████░░░░░░░░░░░░   50.79 % 
+🌙 Night                  9 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
@@ -36,7 +34,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/07/2024 18:39:03 UTC
+ Last Updated on 24/07/2024 18:41:59 UTC
 <!--END_SECTION:waka-->
 
 ## 🌱 Learning Goals
