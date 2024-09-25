@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at Stev
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?size=40"></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20thousand%20lines%20of%20code-blue)
 
@@ -29,18 +29,18 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at Stev
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   38.94 % 
-C                        1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   32.84 % 
-Text                     59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Assembly                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Python                   1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   38.58 % 
+Text                     1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+Assembly                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+C                        28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 💻 Operating System: 
-Linux                    3 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/09/2024 18:44:31 UTC
+ Last Updated on 25/09/2024 18:44:10 UTC
 <!--END_SECTION:waka-->
 
 ## 🌱 Learning Goals
