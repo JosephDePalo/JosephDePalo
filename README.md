@@ -1,6 +1,6 @@
 # Hello, I'm Joseph DePalo! 👋
 
-Welcome to my GitHub profile! I'm a second-year Computer Science student at Stevens Institute of Technology, passionate about the fascinating world of cybersecurity and workings of systems administration. My journey involves experimenting with various programming languages, building secure systems that can stand the test of cyber threats, and maintaining my own server to hone my systems administration skills!
+Welcome to my GitHub profile! I'm a third-year Computer Science student at Stevens Institute of Technology, passionate about the fascinating world of cybersecurity and workings of systems administration. My journey involves experimenting with various programming languages, building secure systems that can stand the test of cyber threats, and maintaining my own server to hone my systems administration skills!
 
 ### 🔧 Languages & Tools
 
