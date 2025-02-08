@@ -8,10 +8,10 @@ I am continually expanding my knowledge in cybersecurity, aiming to specialize i
 
 ## 📫 Let's Connect!
 
-    📧 Reach me at: jdepalo@stevens.edu
+    📧 Reach me at: joe@josephdepalo.com
     💼 Connect with me on LinkedIn: linkedin.com/in/joseph-depalo
 
-Feel free to explore my projects and let's collaborate to make a difference in the tech world! 🌟
+Feel free to explore my projects and reach out to me via email or Linkedin!
 
 <!--
 **JosephDePalo/JosephDePalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
